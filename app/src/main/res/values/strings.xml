@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Register Login demo</string>
+    <string name="welcome">WelCome</string>
+    <string name="to_login_your_app_with_your_email_and_password">To demo base App.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="onfirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="please_wait">Please wait</string>
+    <string name="inbox_string">Profile</string>
+    <string name="draft_string">Add Images</string>
+    <string name="sent_mail_string">Images List</string>
+    <string name="starred_string">About Us</string>
+    <string name="user_registered_successfully">User Registered successfully</string>
+    <string name="please_enter_user_name">Please enter user name</string>
+    <string name="please_enter_email">Please enter email</string>
+    <string name="please_enter_valid_email">Please enter valid email</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="please_enter_confirm_password">Please enter confirm password</string>
+    <string name="password_does_not_match">Password does not match</string>
+    <string name="user_already_exist">User Already Exits</string>
+    <string name="user_not_exist">User not exist</string>
+    <string name="reset">Reset</string>
+    <string name="new_password">New Password</string>
+</resources>

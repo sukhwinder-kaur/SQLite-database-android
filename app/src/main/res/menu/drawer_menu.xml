@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/profile"
+            android:checked="false"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="@string/inbox_string" />
+
+        <item
+            android:id="@+id/about_us"
+            android:checked="false"
+            android:icon="@drawable/ic_help_black_24dp"
+            android:title="@string/starred_string" />
+
+        <item
+            android:id="@+id/images"
+            android:checked="false"
+            android:icon="@drawable/ic_collections_black_24dp"
+            android:title="@string/sent_mail_string" />
+
+        <item
+            android:id="@+id/addImage"
+            android:checked="false"
+            android:icon="@drawable/ic_camera_alt_black_24dp"
+            android:title="@string/draft_string" />
+    </group>
+</menu>
